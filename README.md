@@ -16,10 +16,10 @@ Welcome to my IT Support Portfolio! I'm a career switcher with a Master’s degr
 
 ## 📁 Project Simulations
 
-### 1. [GreenScape Email Access Simulation](https://github.com/YOURUSERNAME/greenscape-email-issue-simulation)
+### 1. [GreenScape Email Access Simulation](https://github.com/TobiThrill/greenscape-email-issue-simulation)
 Simulated support case resolving a client’s email login issue through professional communication and browser troubleshooting.
 
-### 2. [Datacom Network Outage Response](https://github.com/YOURUSERNAME/datacom-network-outage-simulation)
+### 2. [Datacom Network Outage Response](https://github.com/TobiThrill/datacom-network-outage-simulation)
 Ticket triage and client communication in response to a simulated multi-client network outage.
 
 ---
